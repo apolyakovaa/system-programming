@@ -1,0 +1,15 @@
+﻿  dns.c
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(38,28): warning C4047: функция: "HashTable *" отличается по уровням косвенного обращения от "DNSHandle"
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(38,24): warning C4024: AddInHashTable: различные типы для формального и фактического параметров 1
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(47,41): warning C4047: функция: "HashTable *" отличается по уровням косвенного обращения от "DNSHandle"
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(47,37): warning C4024: GetFromHashTable: различные типы для формального и фактического параметров 1
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(47,51): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(60,27): warning C4047: функция: "HashTable **" отличается по уровням косвенного обращения от "DNSHandle *"
+C:\Users\Richard\source\repos\DNS_1\DNS_1\dns.c(60,22): warning C4024: DestroyHashTable: различные типы для формального и фактического параметров 1
+  hashtable.c
+  main.c
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DNS_1.vcxproj -> C:\Users\Richard\source\repos\DNS_1\Release\DNS_1.exe
